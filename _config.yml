@@ -1,0 +1,28 @@
+name: enkaperinaj
+favicon: null
+layout_spectrum: 0.3779632216319442
+typography_spectrum: 0.5160682748537511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20690303668379784
+  lightness: 0.7165185047779232
+  saturation: 0.7893349616788328
+  rhythmicContrast: 0.47884654183872044
+purpose: []
