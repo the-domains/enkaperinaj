@@ -1,7 +1,7 @@
 name: enkaperinaj
 favicon: null
-layout_spectrum: 0.3779632216319442
-typography_spectrum: 0.5160682748537511
+layout_spectrum: 0.03739
+typography_spectrum: 0.29237
 title: 'enka perinaj, holistic nutritionist & psychologist'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.20690303668379784
-  lightness: 0.7165185047779232
-  saturation: 0.7893349616788328
-  rhythmicContrast: 0.47884654183872044
+    - '#ffffff'
+    - '#1fbccc'
+    - '#000000'
+    - '#717155'
+    - '#bfbfbf'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
