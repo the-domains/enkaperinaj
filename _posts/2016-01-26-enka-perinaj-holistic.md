@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'holistic nutritionist & psychologist'
-datePublished: '2016-02-06T16:56:28.183Z'
-dateModified: '2016-02-06T16:56:02.261Z'
+datePublished: '2016-02-06T17:07:12.094Z'
+dateModified: '2016-02-06T17:06:51.824Z'
 title: "The\_Integrative\_Mind-Body\_Approach\_to Digestive & Mental\_Health"
 author: []
 sourcePath: _posts/2016-01-26-enka-perinaj-holistic.md
@@ -22,14 +22,18 @@ url: enka-perinaj-holistic/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97852381-01d1-47d7-9eb6-405fda6684a6.jpg)
+
 # The Integrative Mind-Body Approach to Digestive & Mental Health
 
-# 
+## Why nutrition and lifestyle practitioner?
 
-# Why nutrition and lifestyle practitioner?
+I coach about foods that bring wellness not illness. It's about how to achieve and maintain great health, and how to avoid deficiencies which can lead to depression, insomnia, moodiness, low energy, obesity, digestive troubles... I can help you beat the odds against sugar, processed foods, low energy and disease. I'm here to let you know you're not alone. I'm here to do a research for you, educate and advise you. 
 
-I coach about foods that bring wellness not illness. It's about how to achieve and maintain great health, and how to avoid deficiencies which can lead to depression, insomnia, moodiness, low energy, obesity, digestive troubles... 
+### If the patient has been to more than four physicians, nutrition is probably the medical answer." Abram Hoffer, M.D., Ph.D.
 
-### I can help you beat the odds against sugar, processed foods, low energy and disease. I'm here to let you know you're not alone. I'm here to do a research for you, educate and advise you. 
-> 
-> ### If the patient has been to more than four physicians, nutrition is probably the medical answer." Abram Hoffer, M.D., Ph.D.
+#### [Ask me about][0] .. 
+
+### bioindividuality | using food as medicine | immune system support | digestive health | nutrition for mental health | gluten sensitivity | amino acid therapy | orthomolecular nutrition | functional nutrition | integrative approaches to health | brain food | balancing the microbiome | eating to increase energy and slow aging | gut healing foods | cooking for a healthy mind | mood foods: managing challenging cravings
+
+[0]: null
