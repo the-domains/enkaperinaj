@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'holistic nutritionist & psychologist'
-datePublished: '2016-02-06T17:28:29.437Z'
-dateModified: '2016-02-06T17:28:18.896Z'
+datePublished: '2016-02-06T17:38:00.413Z'
+dateModified: '2016-02-06T17:31:52.971Z'
 title: "The\_Integrative\_Mind-Body\_Approach\_to Digestive & Mental\_Health"
 author: []
 sourcePath: _posts/2016-01-26-enka-perinaj-holistic.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: enka-perinaj-holistic/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Integrative Mind-Body Approach to Digestive & Mental Health
