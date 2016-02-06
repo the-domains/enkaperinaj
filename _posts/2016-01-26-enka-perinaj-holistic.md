@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'holistic nutritionist & psychologist'
-datePublished: '2016-02-06T16:42:49.893Z'
-dateModified: '2016-02-06T16:42:36.057Z'
-title: Hello
+datePublished: '2016-02-06T16:56:28.183Z'
+dateModified: '2016-02-06T16:56:02.261Z'
+title: "The\_Integrative\_Mind-Body\_Approach\_to Digestive & Mental\_Health"
 author: []
 sourcePath: _posts/2016-01-26-enka-perinaj-holistic.md
 published: true
@@ -22,8 +22,14 @@ url: enka-perinaj-holistic/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b51f8b2-a838-475f-9dfb-99aa1bf9690e.png)
+# The Integrative Mind-Body Approach to Digestive & Mental Health
 
-# Hello
+# 
 
-## On scale 1 to 10 how are you happy with your life?
+# Why nutrition and lifestyle practitioner?
+
+I coach about foods that bring wellness not illness. It's about how to achieve and maintain great health, and how to avoid deficiencies which can lead to depression, insomnia, moodiness, low energy, obesity, digestive troubles... 
+
+### I can help you beat the odds against sugar, processed foods, low energy and disease. I'm here to let you know you're not alone. I'm here to do a research for you, educate and advise you. 
+> 
+> ### If the patient has been to more than four physicians, nutrition is probably the medical answer." Abram Hoffer, M.D., Ph.D.
