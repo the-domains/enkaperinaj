@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'holistic nutritionist & psychologist'
-datePublished: '2016-02-06T17:38:00.413Z'
-dateModified: '2016-02-06T17:31:52.971Z'
+datePublished: '2016-02-14T07:14:19.398Z'
+dateModified: '2016-02-14T07:13:49.600Z'
 title: "The\_Integrative\_Mind-Body\_Approach\_to Digestive & Mental\_Health"
 author: []
 sourcePath: _posts/2016-01-26-enka-perinaj-holistic.md
